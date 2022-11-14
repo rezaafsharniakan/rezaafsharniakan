@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezaafsharniakan
-- 👀 I’m interested in python,django,data minig , webscraping
-- 🌱 I’m currently learning  data minig
-- 💞️ I’m looking to collaborate on  data minig
+- 👀 I’m interested in python,django,AI , webscraping,ML
+- 🌱 I’m currently student AI phd
+- 💞️ I’m looking to collaborate on  ML
 - 📫 How to reach me reza.afsharniakan@gmail.com
 
 <!---
