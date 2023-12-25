@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezaafsharniakan
-- 👀 I’m interested in python,computer vision,django,AI,data minig , webscraping
-- 🌱 I’m currently learning  computer vision and deep learning 
+- 👀 I’m interested in python,computer vision,django,AI,data minig , Deep ĺearnin,Mashin Learning,Big Data
+- 🌱 I’m currently learning  computer vision and deep learning ,spark
 - 💞️ I’m looking to collaborate on  computer vision
 - 📫 How to reach me reza.afsharniakan@gmail.com
 
